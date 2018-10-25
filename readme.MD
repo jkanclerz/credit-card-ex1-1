@@ -12,4 +12,5 @@ requirements
 technical requirements:
  - java >= 8
  - maven 3 
- 
+
+coAuthor Jkanclerz 
